@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:euSHIMb_TSuu8-PHkFTIDg
+url: https://github.com/jadenz98/adminlab
+urlType: REPO
+username: jadenz98
